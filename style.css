@@ -4,3 +4,7 @@
   background-position: center;
   height: 50vh;
 }
+#carousel-box {
+  width: 50vw;
+  margin: 0px auto;
+}
